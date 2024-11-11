@@ -1,0 +1,22 @@
+{
+  "name": "functor-auto-checkin",
+  "version": "1.0.0",
+  "description": "auto checkin for functor network",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "node-fetch": "^3.2.10"
+  },
+  "keywords": [
+    "auto",
+    "checkin",
+    "functor",
+    "network",
+    "light",
+    "node"
+  ],
+  "license": "ISC"
+}
